@@ -1,0 +1,1 @@
+Four balls are placed at the corners of the screen and starts moving in random directions along the edges of the view port and has interactive ball motions. This is done using html, JavaScript and CSS. 
